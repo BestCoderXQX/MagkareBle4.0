@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MagkareBle4.0</string>
+    <string name="open_setting">Setting</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="ble_location_not_open">不检查</string>
+    <string name="ble_location_not">不检查</string>
+</resources>
